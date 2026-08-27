@@ -67,4 +67,4 @@ name: Mode
 type: parsed
 protocol: NECext
 address: 00 FD 00 00
-command: 22 DD 00 00
+command: 44 BB 00 00
