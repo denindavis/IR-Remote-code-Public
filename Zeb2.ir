@@ -59,6 +59,5 @@ command: E7 18 00 00
 #
 name: Mode
 type: parsed
-protocol: NEC42
 address: 00 BF 00 00
 command: BB 44 00 00
