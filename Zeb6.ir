@@ -60,4 +60,4 @@ command: 18 E7 00 00
 name: Mode
 type: parsed
 address: 00 BF 00 00
-command: 22 DD 00 00
+command: 44 BB 00 00
