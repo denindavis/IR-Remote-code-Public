@@ -5,66 +5,66 @@ Version: 1
 #
 name: Power
 type: parsed
-protocol: NECext
-address: 00 BF 00 00
-command: 28 D7 00 00
+protocol: NEC
+address: 00 FD 00 00
+command: D7 28 FD 00
 #
-name: Vol_up
+name: Volume up
 type: parsed
-protocol: NECext
-address: 00 BF 00 00
-command: 58 A7 00 00
+protocol: NEC
+address: 00 FD 00 00
+command: A7 58 FD 00
 #
-name: Vol_down
+name: Volume down
 type: parsed
-protocol: NECext
-address: 00 BF 00 00
-command: 38 C7 00 00
+protocol: NEC
+address: 00 FD 00 00
+command: C7 38 FD 00
 #
 name: Mute
 type: parsed
-protocol: NECext
-address: 00 BF 00 00
-command: 50 AF 00 00
+protocol: NEC
+address: 00 FD 00 00
+command: 00 00 00 00
 #
 name: Next
 type: parsed
-protocol: NECext
-address: 00 BF 00 00
-command: 88 77 00 00
+protocol: NEC
+address: 00 FD 00 00
+command: 77 88 FD 00
 #
 name: Previous
 type: parsed
-protocol: NECext
-address: 00 BF 00 00
-command: 98 67 00 00
+protocol: NEC
+address: 00 FD 00 00
+command: 67 98 FD 00
 #
-name: Treble_up
+name: Treble +
 type: parsed
-protocol: NECext
-address: 00 BF 00 00
-command: 62 9D 00 00
+protocol: NEC
+address: 00 FD 00 00
+command: 9D 62 FD 00
 #
-name: Treble_down
+name: Treble -
 type: parsed
-protocol: NECext
-address: 00 BF 00 00
-command: 52 AD 00 00
+protocol: NEC
+address: 00 FD 00 00
+command: AD 52 FD 00
 #
-name: Sub_up
+name: Sub +
 type: parsed
-protocol: NECext
-address: 00 BF 00 00
-command: B8 47 00 00
+protocol: NEC
+address: 00 FD 00 00
+command: 47 B8 FD 00
 #
-name: Sub_down
+name: Sub -
 type: parsed
-protocol: NECext
-address: 00 BF 00 00
-command: 18 E7 00 00
+protocol: NEC
+address: 00 FD 00 00
+command: E7 18 FD 00
 #
 name: Mode
 type: parsed
-protocol: NECext
-address: 00 BF 00 00
-command: 44 BB 00 00
+protocol: NEC
+address: 00 FD 00 00
+command: DD 22 FD 00
