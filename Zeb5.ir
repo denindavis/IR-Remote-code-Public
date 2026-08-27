@@ -55,9 +55,9 @@ name: Sub -
 type: parsed
 protocol: NEC
 address: 00 BF 00 00
-command: E7 18 00 00
+command: 18 E7 00 00
 #
 name: Mode
 type: parsed
-address: 00 FD 00 00
+address: 00 BF 00 00
 command: 22 DD 00 00
