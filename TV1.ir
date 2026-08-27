@@ -1,0 +1,99 @@
+Filetype: IR signals file
+Version: 1
+#
+# TV Remote
+#
+name: Power
+type: parsed
+address: 40 BF 12 ED
+command: 12 ED 00 00
+
+#
+name: Mute
+type: parsed
+address: 40 BF 10 EF
+command: 10 EF 00 00
+
+#
+name: Source
+type: parsed
+address: 40 BF 14 EB
+command: 14 EB 00 00
+
+#
+name: Volume up
+type: parsed
+address: 40 BF 1A E5
+command: 1A E5 00 00
+
+#
+name: Volume down
+type: parsed
+address: 40 BF 1E E1
+command: 1E E1 00 00
+
+#
+name: Channel up
+type: parsed
+address: 40 BF 1B E4
+command: 1B E4 00 00
+
+#
+name: Channel down
+type: parsed
+address: 40 BF 1F E0
+command: 1F E0 00 00
+
+#
+name: Up
+type: parsed
+address: 40 BF 19 E6
+command: 19 E6 00 00
+
+#
+name: Down
+type: parsed
+address: 40 BF 1D E2
+command: 1D E2 00 00
+
+#
+name: Left
+type: parsed
+address: 40 BF 46 B9
+command: 46 B9 00 00
+
+#
+name: Right
+type: parsed
+address: 40 BF 47 B8
+command: 47 B8 00 00
+
+#
+name: OK
+type: parsed
+address: 40 BF 0A F5
+command: 0A F5 00 00
+
+#
+name: Return
+type: parsed
+address: 40 BF 40 BF
+command: 40 BF 00 00
+
+#
+name: Home
+type: parsed
+address: 40 BF 0B F4
+command: 0B F4 00 00
+
+#
+name: Exit
+type: parsed
+address: 40 BF 71 8E
+command: 71 8E 00 00
+
+#
+name: Settings
+type: parsed
+address: 40 BF 72 8D
+command: 72 8D 00 00
