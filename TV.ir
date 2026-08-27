@@ -75,7 +75,7 @@ address: 40 BF 0A F5
 command: 0A F5 00 00
 
 #
-name: Return
+name: Return/Back
 type: parsed
 address: 40 BF 40 BF
 command: 40 BF 00 00
@@ -85,15 +85,3 @@ name: Home
 type: parsed
 address: 40 BF 0B F4
 command: 0B F4 00 00
-
-#
-name: Exit
-type: parsed
-address: 40 BF 71 8E
-command: 71 8E 00 00
-
-#
-name: Settings
-type: parsed
-address: 40 BF 72 8D
-command: 72 8D 00 00
