@@ -1,0 +1,70 @@
+Filetype: IR signals file
+Version: 1
+#
+# Zeb Sound Bar
+#
+name: Power
+type: parsed
+protocol: NECext
+address: 00 FD 00 00
+command: 28 D7 00 00
+#
+name: Vol_up
+type: parsed
+protocol: NECext
+address: 00 FD 00 00
+command: 58 A7 00 00
+#
+name: Vol_down
+type: parsed
+protocol: NECext
+address: 00 FD 00 00
+command: 38 C7 00 00
+#
+name: Mute
+type: parsed
+protocol: NECext
+address: 00 FD 00 00
+command: 50 AF 00 00
+#
+name: Next
+type: parsed
+protocol: NECext
+address: 00 FD 00 00
+command: 88 77 00 00
+#
+name: Previous
+type: parsed
+protocol: NECext
+address: 00 FD 00 00
+command: 98 67 00 00
+#
+name: Treble_up
+type: parsed
+protocol: NECext
+address: 00 FD 00 00
+command: 62 9D 00 00
+#
+name: Treble_down
+type: parsed
+protocol: NECext
+address: 00 FD 00 00
+command: 52 AD 00 00
+#
+name: Sub_up
+type: parsed
+protocol: NECext
+address: 00 FD 00 00
+command: B8 47 00 00
+#
+name: Sub_down
+type: parsed
+protocol: NECext
+address: 00 FD 00 00
+command: 18 E7 00 00
+#
+name: Mode
+type: parsed
+protocol: NECext
+address: 00 FD 00 00
+command: 44 BB 00 00
