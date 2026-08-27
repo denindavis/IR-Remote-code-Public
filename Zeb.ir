@@ -23,7 +23,7 @@ command: E3 1C 00 00
 #
 name: Next
 type: parsed
-protocol: NEC
+protocol: NEC42
 address: 00 BF 00 00
 command: EE 11 00 00
 #
